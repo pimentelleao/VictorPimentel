@@ -1,0 +1,30 @@
+
+
+
+
+
+
+.seila {
+
+    height: 9.6cm;
+    transition: all 0.4s;
+    cursor: pointer;
+}
+.seila:hover{
+    -webkit-filter: drop-shadow(2px 5px 1px rgba(0,0,0,.5));
+    filter: drop-shadow(5px 5px 5px rgba(0,0,0,.5));
+    transform: scale(1.4);
+}
+
+  html {
+
+    scroll-behavior: smooth;
+  }
+
+  .jumbotron-heading {
+    background-color: rgb(254, 255, 255);
+  }
+
+
+
+  
